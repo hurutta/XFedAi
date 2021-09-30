@@ -1,5 +1,5 @@
 # XFedAi
-Explanable Federated Ai.
+Explanable Federated Ai
 
 <p align="center"><img src="images/XFedAi_Logo.jpg" width="200"/></p>
 
